@@ -1,0 +1,330 @@
+<DispatchDataMessage>
+  <MessageHeader>
+    <OperationType>TRN</OperationType>
+    <IssuedByProgram>S360</IssuedByProgram>
+    <IssuedByCustomer></IssuedByCustomer>
+    <ExternalCaseId></ExternalCaseId>
+    <SourceSystemCreationDate>2017-10-12T16:16:19.298+09:00</SourceSystemCreationDate>
+  </MessageHeader>
+  <TradingPartnerList>
+    <TradingPartner>
+      <Type>DSP</Type>
+      <ID>OMRON</ID>
+      <Name>ｵﾑﾛﾝﾌｨｰﾙﾄﾞｴﾝｼﾞﾆｱﾘﾝｸﾞ(株)</Name>
+    </TradingPartner>
+  </TradingPartnerList>
+  <VendorTransaction>
+    <Vendor>Dell</Vendor>
+    <ServiceEvent>CONFIRM_SCHEDULE</ServiceEvent>
+    <DSPRefNo>000000000000626</DSPRefNo>
+    <DSPDetails>ｵﾑﾛﾝﾌｨｰﾙﾄﾞｴﾝｼﾞﾆｱﾘﾝｸﾞ(株)</DSPDetails>
+    <ReplyCode>100000</ReplyCode>
+    <ReplyCodeDescription>Operation Successful</ReplyCodeDescription>
+    <CreationDateTime>2017-10-13T01:14:09+09:00</CreationDateTime>
+    <VendorId>OMRON</VendorId>
+    <EventCode>DC</EventCode>
+    <ReferenceNumber>000000000000626</ReferenceNumber>
+    <VendorTechId></VendorTechId>
+    <EventDate>2017-10-12T07:16:19+09:00</EventDate>
+    <VendorDate>2017-10-12T07:16:19+09:00</VendorDate>
+    <Comments>(--)</Comments>
+    <FileCreatedDate>2017-10-12T07:16:19+09:00</FileCreatedDate>
+    <StatusCode></StatusCode>
+    <MSGType></MSGType>
+  </VendorTransaction>
+  <ServiceRequest>
+    <DiagnosticId></DiagnosticId>
+    <DiagnosticResult></DiagnosticResult>
+    <DiagnosticTier1>Warranty Dispatch</DiagnosticTier1>
+    <DiagnosticTier2>Audio, Video, Speakers, TV Tuner</DiagnosticTier2>
+    <DiagnosticTier3>No Power</DiagnosticTier3>
+    <DiagnosticTier4>External Speakers</DiagnosticTier4>
+    <DiagnosticTool>Tool Not Needed</DiagnosticTool>
+    <ID>912850793</ID>
+    <Title>** TEST ** TEST ** FY18 R5 UAT</Title>
+    <Status>Open</Status>
+    <SubStatus>Assigned</SubStatus>
+    <Severity>3-Medium</Severity>
+    <Email>no-email@dell.com</Email>
+    <FirstName>タナカヨウコ10/12</FirstName>
+    <LastName>田中陽子10/12</LastName>
+    <PrimaryPhone>
+      <Number>445207197</Number>
+    </PrimaryPhone>
+    <SecondaryPhone>
+      <Number></Number>
+    </SecondaryPhone>
+    <SRContact>
+      <FirstName>タナカヨウコ10/12</FirstName>
+      <PrimaryPhone>+81445207197</PrimaryPhone>
+      <PrimaryPhoneExtn>12345</PrimaryPhoneExtn>
+      <HomePhoneType></HomePhoneType>
+      <LanguagePreference>Japanese</LanguagePreference>
+      <ContactId>10-181ZUS6E</ContactId>
+      <JobTitle></JobTitle>
+      <LastName>田中陽子10/12</LastName>
+      <LoginName></LoginName>
+      <AccountName>shinchan co in</AccountName>
+      <PrimaryAlternateEmailId>No Match Row Id</PrimaryAlternateEmailId>
+      <PrimaryAlternatePhoneId>No Match Row Id</PrimaryAlternatePhoneId>
+      <TimeZone></TimeZone>
+      <TimeZoneId></TimeZoneId>
+      <WorkPhone></WorkPhone>
+      <WorkPhoneExtension></WorkPhoneExtension>
+      <ParentAssetId>10-GQ43-12</ParentAssetId>
+      <ParentSerialNumber></ParentSerialNumber>
+      <ParentManufacturer></ParentManufacturer>
+      <ParentServiceTag>R31V208</ParentServiceTag>
+      <DPSPON></DPSPON>
+      <PreferredLanguage>JA</PreferredLanguage>
+      <PONPreferredMethod></PONPreferredMethod>
+    </SRContact>
+  </ServiceRequest>
+  <Activity>
+    <DispatchPPID></DispatchPPID>
+    <Environment>Other</Environment>
+    <SubEnvironment>Other</SubEnvironment>
+    <ShortComment></ShortComment>
+    <SerialNumber></SerialNumber>
+    <ActivityUID>10-1820OLUQ</ActivityUID>
+    <Repeating>N</Repeating>
+    <CallID></CallID>
+    <ChatID></ChatID>
+    <EmailID></EmailID>
+    <ISPANI></ISPANI>
+    <ID>10-1820OLUQ</ID>
+    <Buid>3535</Buid>
+    <DispatchNumber>19850019459</DispatchNumber>
+    <Description>** TEST ** TEST ** FY18 R5 UAT</Description>
+    <SolutionSteps>** TEST ** TEST ** FY18 R5 UAT</SolutionSteps>
+    <Priority>4-Low</Priority>
+    <GroupName>JP Testing Group</GroupName>
+    <Owner>
+      <Name>YOKO_TANAKA</Name>
+    </Owner>
+    <Status>CNL</Status>
+    <StatusDescription>Cancelled</StatusDescription>
+    <SubStatus></SubStatus>
+    <StatusDate>2017-10-13T01:16:01+09:00</StatusDate>
+    <ServiceAttributes>
+      <ServiceAttribute type="Service Type">Break Fix</ServiceAttribute>
+      <ServiceAttribute type="Service Sub-Type">Parts and Labor</ServiceAttribute>
+      <ServiceAttribute type="Billable">N</ServiceAttribute>
+      <ServiceAttribute type="Call Type">DNS</ServiceAttribute>
+      <ServiceAttribute type="Complete Care">N</ServiceAttribute>
+      <ServiceAttribute type="DPS Type">NBD</ServiceAttribute>
+      <ServiceAttribute type="KYHD">Y</ServiceAttribute>
+      <ServiceAttribute type="Options"></ServiceAttribute>
+      <ServiceAttribute type="Out of Hours">N</ServiceAttribute>
+      <ServiceAttribute type="Out of Warranty">N</ServiceAttribute>
+      <ServiceAttribute type="Premier Code"></ServiceAttribute>
+      <ServiceAttribute type="Service Hours">8x6</ServiceAttribute>
+      <ServiceAttribute type="Service Level">Next Business Day</ServiceAttribute>
+      <ServiceAttribute type="Service Provider Id">OMRON</ServiceAttribute>
+      <ServiceAttribute type="Service Provider">ｵﾑﾛﾝﾌｨｰﾙﾄﾞｴﾝｼﾞﾆｱﾘﾝｸﾞ(株)</ServiceAttribute>
+      <ServiceAttribute type="System Classification">Desktop</ServiceAttribute>
+      <ServiceAttribute type="DSP Override"></ServiceAttribute>
+      <ServiceAttribute type="ProSupportFlag">N</ServiceAttribute>
+      <ServiceAttribute type="Deferred">No</ServiceAttribute>
+      <ServiceAttribute type="SKU"></ServiceAttribute>
+      <ServiceAttribute type="Parts Country"></ServiceAttribute>
+      <ServiceAttribute type="Labor Country"></ServiceAttribute>
+      <ServiceAttribute type="Bill To"></ServiceAttribute>
+      <ServiceAttribute type="DSP Assignment">Dynamic Dispatch</ServiceAttribute>
+      <ServiceAttribute type="Shipping Method"></ServiceAttribute>
+      <ServiceAttribute type="Collect DLP"></ServiceAttribute>
+      <ServiceAttribute type="Service SKU"></ServiceAttribute>
+      <ServiceAttribute type="Location Coverage">4 Hour-24x7</ServiceAttribute>
+      <ServiceAttribute type="eSupport URL"></ServiceAttribute>
+      <ServiceAttribute type="DSP Schedule Enabled Flag">Y</ServiceAttribute>
+      <ServiceAttribute type="ScheduledWindowStart">10/19/2017 09:00:00</ServiceAttribute>
+      <ServiceAttribute type="ScheduledWindowEnd">10/19/2017 17:00:00</ServiceAttribute>
+      <ServiceAttribute type="ADOverrideRequest"></ServiceAttribute>
+      <ServiceAttribute type="ADOverrideReason"></ServiceAttribute>
+      <ServiceAttribute type="Limit Eligibility"></ServiceAttribute>
+      <ServiceAttribute type="AD Count"></ServiceAttribute>
+      <ServiceAttribute type="Override Count"></ServiceAttribute>
+      <ServiceAttribute type="Keep Your Component">N</ServiceAttribute>
+    </ServiceAttributes>
+    <ReasonCode>LC3M</ReasonCode>
+    <RepeatCount>0</RepeatCount>
+    <RepeatReason></RepeatReason>
+    <ReverseAgency>false</ReverseAgency>
+    <DeferTimeZone>(GMT+09:00) Osaka, Sapporo, Tokyo</DeferTimeZone>
+    <Approver></Approver>
+    <ReasonCodeDescription></ReasonCodeDescription>
+    <LaborStatusCode></LaborStatusCode>
+    <PartsStatusCode></PartsStatusCode>
+    <SubType></SubType>
+    <ActivityType>Break Fix</ActivityType>
+    <CustomerHeat></CustomerHeat>
+    <ActivityNote>RMA: ** TEST ** TEST ** FY18 R5 UAT</ActivityNote>
+    <AVSUsed>false</AVSUsed>
+    <ServiceSchedule>
+      <TimeZone>GMT+09:00</TimeZone>
+      <ArrivalWindowStart>2017-10-13T23:59:00+09:00</ArrivalWindowStart>
+      <ArrivalWindowEnd>2017-10-13T23:59:00+09:00</ArrivalWindowEnd>
+    </ServiceSchedule>
+    <SubRegion>JP</SubRegion>
+    <DispatchCreationDate>2017-10-12T16:13:29+09:00</DispatchCreationDate>
+    <PurchaseOrderNumber></PurchaseOrderNumber>
+    <SanbaoFlag>true</SanbaoFlag>
+    <OrderDispatch>N</OrderDispatch>
+    <EstimatedEffort></EstimatedEffort>
+    <Waybills></Waybills>
+  </Activity>
+  <Account>
+    <Channel>JP_35020</Channel>
+    <SubChannel></SubChannel>
+  </Account>
+  <Asset>
+    <FSDCurrentEntitlement>Next Business Day-8x6</FSDCurrentEntitlement>
+    <ServiceTag>R31V208</ServiceTag>
+    <ItemClass>&amp;gt;S002</ItemClass>
+    <ProductDescription>OPTIPLEX 9020,BTX,AIO,BTX,WW</ProductDescription>
+    <SystemType></SystemType>
+    <LineOfBusiness>4PD</LineOfBusiness>
+    <InvoiceDate>2016-08-07T00:00:00+09:00</InvoiceDate>
+    <IssuedDate>2016-08-07T00:00:00+09:00</IssuedDate>
+  </Asset>
+  <Order>
+    <OrderNumber>970091862</OrderNumber>
+    <Buid>3535</Buid>
+  </Order>
+  <Technician>
+    <Name>YOKO_TANAKA</Name>
+    <BadgeNumber>900729</BadgeNumber>
+  </Technician>
+  <Customer>
+    <CustomerNumber>743287425</CustomerNumber>
+    <CustomerBuid>3535</CustomerBuid>
+    <CompanyNumber>JP_35020</CompanyNumber>
+    <CompanyName>shinchan co in</CompanyName>
+    <AlternateCompanyName>shinchan co in</AlternateCompanyName>
+    <CustomerClass>SMB</CustomerClass>
+    <CustomerClassDesc>SMB</CustomerClassDesc>
+  </Customer>
+  <Address>
+    <AddressLine1>神奈川県</AddressLine1>
+    <AddressLine2>川崎市</AddressLine2>
+    <AddressLine3>堀川町</AddressLine3>
+    <AddressLine4></AddressLine4>
+    <City>川崎市</City>
+    <PostalCode>212-8589</PostalCode>
+    <StateProvince>神奈川県</StateProvince>
+    <Country>JP</Country>
+    <TimeZone>GMT+09:00</TimeZone>
+    <RegionCode>3</RegionCode>
+  </Address>
+  <Contact>
+    <Name>田中陽子10/12</Name>
+    <Phone>
+      <Number>445207197</Number>
+      <Extension>12345</Extension>
+    </Phone>
+    <Email>no-email@dell.com</Email>
+    <PrimaryContactSecondaryPhone></PrimaryContactSecondaryPhone>
+    <DPSPON></DPSPON>
+    <PreferredLanguage>JA</PreferredLanguage>
+    <PONPreferredMethod></PONPreferredMethod>
+    <HomePhoneType></HomePhoneType>
+  </Contact>
+  <AlternateContact>
+    <Name></Name>
+    <Phone>
+      <Number></Number>
+      <Extension></Extension>
+    </Phone>
+    <Email></Email>
+    <AlternateContactSecondaryPhone></AlternateContactSecondaryPhone>
+    <DPSPON></DPSPON>
+    <PreferredLanguage></PreferredLanguage>
+    <PONPreferredMethod></PONPreferredMethod>
+  </AlternateContact>
+  <AdditionalContacts></AdditionalContacts>
+  <Comments>
+    <Comment type="PRB" latest="true">
+      <DateTime>2017-10-13T01:12:55+09:00</DateTime>
+      <TechnicianName>YOKO_TANAKA</TechnicianName>
+      <Id>10-182191NW</Id>
+      <ProblemDescription>KYHD:交換済みHDD返却不要</ProblemDescription>
+      <Area>KYHD</Area>
+      <AreaDisplay>KYHD</AreaDisplay>
+    </Comment>
+    <Comment type="PRB" latest="true">
+      <DateTime>2017-10-13T01:12:55+09:00</DateTime>
+      <TechnicianName>YOKO_TANAKA</TechnicianName>
+      <Id>10-182191NV</Id>
+      <ProblemDescription>KYHD</ProblemDescription>
+      <Area>KYHD</Area>
+      <AreaDisplay>KYHD</AreaDisplay>
+    </Comment>
+    <Comment type="PRB" latest="true">
+      <DateTime>2017-10-13T01:12:33+09:00</DateTime>
+      <TechnicianName>YOKO_TANAKA</TechnicianName>
+      <Id>10-182191BM</Id>
+      <ProblemDescription>Dell Troubleshooting Log : RMA: ** TEST ** TEST ** FY18 R5 UAT</ProblemDescription>
+      <Area>General Comment</Area>
+      <AreaDisplay>General Comment</AreaDisplay>
+    </Comment>
+    <Comment type="NBD" latest="true">
+      <DateTime>2017-10-13T01:12:33+09:00</DateTime>
+      <TechnicianName>YOKO_TANAKA</TechnicianName>
+      <Id>10-182191BN</Id>
+      <ProblemDescription>See TS Note. Replace as Needed</ProblemDescription>
+      <Area>DSP</Area>
+      <AreaDisplay>DSP</AreaDisplay>
+    </Comment>
+  </Comments>
+  <PartsOrdered>
+    <Part>
+      <PUDOName></PUDOName>
+      <RejectReason></RejectReason>
+      <ReturnQty>1</ReturnQty>
+      <UnitPrice></UnitPrice>
+      <FulfilledQty></FulfilledQty>
+      <DispatchMode>Manual</DispatchMode>
+      <UseAltPart>Y</UseAltPart>
+      <PartNumber>JPCAR</PartNumber>
+      <DCCMTCommodityCode></DCCMTCommodityCode>
+      <DefectiveComponent></DefectiveComponent>
+      <SubDefectiveComponents></SubDefectiveComponents>
+      <FunctionalDescription></FunctionalDescription>
+      <Description>Dummy for CAR, Invalid Part</Description>
+      <Quantity>1</Quantity>
+      <ROHS></ROHS>
+      <FourHRS></FourHRS>
+      <FRU></FRU>
+      <CRU></CRU>
+      <Depot>
+        <LocationID></LocationID>
+        <Description>Dummy for CAR, Invalid Part</Description>
+        <ProviderId></ProviderId>
+      </Depot>
+      <APSPath></APSPath>
+      <ReplacePart>true</ReplacePart>
+      <PartAction></PartAction>
+      <ShippedQtyType></ShippedQtyType>
+      <BACLOGCOMM></BACLOGCOMM>
+    </Part>
+  </PartsOrdered>
+  <LogisticsDetails>
+    <PartOrderETA></PartOrderETA>
+    <TransConfirmation></TransConfirmation>
+    <TransRejection></TransRejection>
+    <TransRejectReason></TransRejectReason>
+    <TransDLPCode></TransDLPCode>
+  </LogisticsDetails>
+  <PartsShipped></PartsShipped>
+  <PartsReturned></PartsReturned>
+  <PartsUsage></PartsUsage>
+  <Credits>
+    <CreditDisputeReason></CreditDisputeReason>
+    <CreditDisputeSelection></CreditDisputeSelection>
+    <DisputeTotal></DisputeTotal>
+    <CreditCurrency></CreditCurrency>
+    <BoxType></BoxType>
+    <CollectionDate></CollectionDate>
+    <CollectionTime></CollectionTime>
+  </Credits>
+</DispatchDataMessage>

@@ -1,0 +1,7 @@
+
+qsquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8–ß×‘‚,H¦RMINORZ
+CODE_SMELL
+Œsquid:UselessImportCheck	"FRemove this unused import 'org.springframework.stereotype.Repository'.(¦ýÍýüÿÿÿÿ8ñè¦—‚,H¨RMINORZ
+CODE_SMELL
+‹squid:UselessImportCheck"ERemove this unused import 'org.springframework.stereotype.Component'.(Þ÷Ñ¸ÿÿÿÿÿ8ñè¦—‚,H§RMINORZ
+CODE_SMELL

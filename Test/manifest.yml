@@ -1,0 +1,6 @@
+---
+applications:
+  - name: Test_Rest
+    buildpack: java_buildpack
+    path: Test-0.0.1-SNAPSHOT.war
+SPRING_PROFILES_ACTIVE: cloud

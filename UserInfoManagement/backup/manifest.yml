@@ -1,0 +1,6 @@
+---
+applications:
+  - name: UserInfoManagement01
+    buildpack: java_buildpack
+    path: UserInfoManagement-0.0.1-SNAPSHOT.war
+SPRING_PROFILES_ACTIVE: cloud

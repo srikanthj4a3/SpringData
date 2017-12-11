@@ -1,0 +1,3 @@
+com\boot\mongodb\main\UserProfileApp.class
+com\boot\mongodb\main\UserProfileAppServletInitializer.class
+com\boot\mongodb\UserDataController.class

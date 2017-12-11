@@ -1,0 +1,6 @@
+com\spring\data\mongo\service\UserRepository.class
+com\spring\data\mongo\Address.class
+com\spring\data\mongo\service\UserController.class
+com\spring\data\mongo\service\UserController$1.class
+com\spring\data\mongo\Users.class
+com\spring\data\mongo\service\UserAppMain.class

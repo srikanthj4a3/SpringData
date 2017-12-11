@@ -1,0 +1,5 @@
+---
+applications:
+  - name: Test
+    buildpack: java_buildpack
+    path: Test.war

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/POC/IBM-MQ/IBM-MQ/com.ibm.dhbcore.jar"/>
+	<classpathentry kind="lib" path="C:/POC/IBM-MQ/IBM-MQ/com.ibm.mq.jar"/>
+	<classpathentry kind="lib" path="C:/POC/IBM-MQ/IBM-MQ/com.ibm.mqjms.jar"/>
+	<classpathentry kind="lib" path="C:/POC/IBM-MQ/IBM-MQ/connector-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/POC/IBM-MQ/IBM-MQ/javaee.jar"/>
+	<classpathentry kind="lib" path="C:/POC/IBM-MQ/IBM-MQ/javax.jms.jar"/>
+	<classpathentry kind="lib" path="C:/POC/IBM-MQ/IBM-MQ/org.apache.commons.io.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

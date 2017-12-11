@@ -1,0 +1,8 @@
+
+bsquid:S1481")Remove this unused "json" local variable.(İÙÌÙıÿÿÿÿ8¶‚»€,HˆRMINORZ
+CODE_SMELL
+xsquid:S2095"IUse try-with-resources or close this "MongoClient" in a "finally" clause.(·ğÖË8—şº€,H‰RBLOCKERZBUG
+rsquid:CallToDeprecatedMethod"-Remove this use of "getDB"; it is deprecated.(ÀÃ–8È²Ÿ»€,HŠRMINORZ
+CODE_SMELL
+qsquid:S1854"8Remove this useless assignment to local variable "json".(İÙÌÙıÿÿÿÿ8¶‚»€,H‹RMAJORZ
+CODE_SMELL

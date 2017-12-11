@@ -1,0 +1,6 @@
+---
+applications:
+  - name: SpringData_MongoDB
+    buildpack: java_buildpack
+    path: SpringData-MongoDB-0.0.1-SNAPSHOT.war
+SPRING_PROFILES_ACTIVE: cloud

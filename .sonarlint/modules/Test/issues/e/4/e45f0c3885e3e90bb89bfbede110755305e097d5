@@ -1,0 +1,6 @@
+
+΅squid:UselessImportCheck"[Remove this unused import 'org.springframework.boot.autoconfigure.EnableAutoConfiguration'.(ζθώήψÿÿÿÿ8ψηρώ+HοRMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(Φωÿÿÿÿ8λρώ+HπRMAJORZ
+CODE_SMELL
